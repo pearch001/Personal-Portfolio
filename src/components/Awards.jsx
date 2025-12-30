@@ -4,7 +4,7 @@ export default function Awards() {
       title: 'Thinkathon Hackathon Winner',
       organization: 'Thinkathon 2026',
       date: 'December 2026',
-      description: 'First place winner for developing an innovative AI-powered solution that demonstrated exceptional technical execution and real-world impact. Competed against 50+ teams to deliver a production-ready prototype in 48 hours.',
+      description: 'First place winner for developing an innovative AI-powered solution that demonstrated exceptional technical execution and real-world impact. Competed against 30+ teams to deliver a production-ready prototype in 72 hours.',
       achievement: '1st Place',
       icon: (
         <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
